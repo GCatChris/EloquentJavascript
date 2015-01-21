@@ -8,7 +8,7 @@ function countBs(str) {
  	for (var i = 0; i < str.length; i++)
  	    // If indice of string is B increment the counter variable
       	    if(str.charAt(i) == "B")
-                count++;
+            	count++;
 	// Return the counter variable  
  	return count; 		
         
